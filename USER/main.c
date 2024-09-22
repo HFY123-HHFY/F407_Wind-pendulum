@@ -66,8 +66,7 @@ int main(void)
         OLED_Printf(0,32,OLED_6X8,"yaw:%f",yaw);
         OLED_Update();
     }
-    
-
+    //////////////////////////////////////
 
     for(;;);
         
